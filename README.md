@@ -39,7 +39,7 @@ org.gradle.parallel=true
 android.enableBuildCache=true
 //Enable simple gradle caching  
 org.gradle.caching=true
-// Increase memory allocated to JVM
+// Increase memory allocated to JVM   
 org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
 
 
