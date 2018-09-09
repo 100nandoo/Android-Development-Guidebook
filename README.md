@@ -30,9 +30,8 @@ Create a file named  `gradle.properties`  in whatever directory applies:
 -   `C:\Users\<username>\.gradle`  (Windows)
 
 > // Enable Gradle Daemon  
-
-> org.gradle.daemon=true
-> // Enable Configure on demand  
+org.gradle.daemon=true
+// Enable Configure on demand  
 org.gradle.configureondemand=true
 //Enable parallel builds  
 org.gradle.parallel=true
@@ -40,6 +39,5 @@ org.gradle.parallel=true
 android.enableBuildCache=true
 //Enable simple gradle caching  
 org.gradle.caching=true
-// Increase memory allocated to JVM, I set jvmargs to 2048m (2gb) in my 
-// computer with 8gb ram. You can increase it if you have more ram.
-> org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
+// Increase memory allocated to JVM, I set jvmargs to 2048m (2gb) in my computer with 8gb ram. You can increase it if you have more ram.
+org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
