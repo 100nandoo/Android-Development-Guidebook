@@ -23,24 +23,8 @@ Go to preferences > plugins > and disable everything you don't need.
  - YAML
 
 ## Add "gradle.properties"
-Create a file named  `gradle.properties`  in whatever directory applies:
+Copy `gradle.properties` in this repo to whatever directory applies:
 
 -   `/home/<username>/.gradle/`  (Linux)
 -   `/Users/<username>/.gradle/`  (Mac)
 -   `C:\Users\<username>\.gradle`  (Windows)
-
-> // Enable Gradle Daemon  
-org.gradle.daemon=true
-// Enable Configure on demand  
-org.gradle.configureondemand=true
-//Enable parallel builds  
-org.gradle.parallel=true
-// Enable Build Cache  
-android.enableBuildCache=true
-//Enable simple gradle caching  
-org.gradle.caching=true
-// Increase memory allocated to JVM   
-org.gradle.jvmargs=-Xmx2048m -XX:MaxPermSize=512m -XX:+HeapDumpOnOutOfMemoryError -Dfile.encoding=UTF-8
-
-
-I set jvmargs to 2048m (2gb) in my computer with 8gb ram. You can increase it if you have more ram.
