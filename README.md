@@ -30,6 +30,7 @@ Create a file named  `gradle.properties`  in whatever directory applies:
 -   `C:\Users\<username>\.gradle`  (Windows)
 
 > // Enable Gradle Daemon  
+
 > org.gradle.daemon=true
 > // Enable Configure on demand  
 org.gradle.configureondemand=true
