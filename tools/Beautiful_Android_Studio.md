@@ -1,4 +1,4 @@
-## Beautiful Intellij (Android Studio)
+## Beautiful Android Studio
 Change color scheme and logcat to be more colorful, so it's easier to read.
 
 ### Colorful Logcat
