@@ -10,7 +10,7 @@ Everything that you need to know to help you become better Android Developer.
 * [Faster Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Faster_Android_Studio.md)
 * [Beautiful Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Beautiful_Android_Studio.md)
 
-### Libraries
+## Libraries
 Various useful libraries for easier Android Development
 
 ### Network
@@ -22,4 +22,8 @@ Various useful libraries for easier Android Development
 
 ### Debugging
 
-### Cookbook
+## Cookbook
+Hands on guide for various things.
+
+#### Add adb to terminal
+`export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools`
