@@ -3,10 +3,10 @@ Everything that you need to know to help you become better Android Developer.
 
 ## Table of Contents
 * [Tools](#tools)
-* [Libraries](#Libraries)
-* [Cookbook](#Cookbook)
+* [Libraries](#libraries)
+* [Cookbook](#cookbook)
 
-### Tools
+## Tools
 * [Faster Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Faster_Android_Studio.md)
 * [Beautiful Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Beautiful_Android_Studio.md)
 
