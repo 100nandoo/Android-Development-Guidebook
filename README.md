@@ -7,8 +7,8 @@ Everything that you need to know to help you become better Android Developer.
 * [Cookbook](#cookbook)
 
 ## Tools
-* [Faster Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Faster_Android_Studio.md)
-* [Beautiful Android Studio](https://github.com/100nandoo/faster-Android-Studio/blob/master/Beautiful_Android_Studio.md)
+* [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Faster_Android_Studio.md)
+* [Beautiful Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Beautiful_Android_Studio.md)
 
 ## Libraries
 Various useful libraries for easier Android Development
