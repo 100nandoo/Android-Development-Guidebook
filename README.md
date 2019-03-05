@@ -28,3 +28,9 @@ Hands on guide for various things.
 
 #### Add adb to terminal
 `export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools`
+
+## To-do
+
+- [ ] Properly export AS material theme
+- [ ] Design Pattern
+- [ ] Useful Kotlin Extensions Classes
