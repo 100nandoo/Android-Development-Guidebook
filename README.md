@@ -6,9 +6,10 @@ Everything that you need to know to help you become better Android Developer.
 * [Libraries](#libraries)
 * [Cookbook](#cookbook)
 
-## Tools
+## Customize Android Studio
 * [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Faster_Android_Studio.md)
 * [Beautiful Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Beautiful_Android_Studio.md)
+* [Ignore Dagger Generated Class](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Ignore_Dagger.md)
 
 ## Libraries
 Various useful libraries for easier Android Development
