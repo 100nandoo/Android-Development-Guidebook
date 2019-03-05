@@ -7,8 +7,8 @@ Everything that you need to know to help you become better Android Developer.
 * [Cookbook](#cookbook)
 
 ## Customize Android Studio
-* [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Faster_Android_Studio.md)
-* [Beautiful Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/Beautiful_Android_Studio.md)
+* [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Faster_Android_Studio.md)
+* [Beautiful Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Beautiful_Android_Studio.md)
 * [Ignore Dagger Generated Class](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Ignore_Dagger.md)
 
 ## Libraries
