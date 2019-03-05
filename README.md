@@ -2,9 +2,10 @@
 Everything that you need to know to help you become better Android Developer.
 
 ## Table of Contents
-* [Tools](#tools)
+* [Customize Android Studio](#customize-android-studio)
 * [Libraries](#libraries)
 * [Cookbook](#cookbook)
+* [To-do List](#to-do-list)
 
 ## Customize Android Studio
 * [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Faster_Android_Studio.md)
@@ -29,7 +30,7 @@ Hands on guide for various things.
 #### Add adb to terminal
 `export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools`
 
-## To-do
+## To-do List
 
 - [ ] Properly export AS material theme
 - [ ] Design Pattern
