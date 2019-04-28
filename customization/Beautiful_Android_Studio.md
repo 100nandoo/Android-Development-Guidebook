@@ -6,7 +6,7 @@ Go to `Settings | plugins | Browse Repositories...` search chroMaterial and inst
 
 ### Colorful Color Scheme
 Using material color scheme.
-* Download [Material-Theme.icls](https://github.com/100nandoo/faster-Android-Studio/blob/master/Material-Theme.icls)
+* Download [Material Theme - Default one line spacing.icls](https://github.com/100nandoo/faster-Android-Studio/blob/master/Material Theme - Default one line spacing.icls)
 * Go to `Settings | Editor | Color Scheme` click the gear icon, then choose import Scheme
 
 ### Change Android Studio UI Theme

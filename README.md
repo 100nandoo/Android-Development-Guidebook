@@ -32,6 +32,6 @@ Hands on guide for various things.
 
 ## To-do List
 
-- [ ] Properly export AS material theme
+- [x] Properly export AS material theme
 - [ ] Design Pattern
 - [ ] Useful Kotlin Extensions Classes
