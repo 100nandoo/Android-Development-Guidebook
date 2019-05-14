@@ -20,18 +20,30 @@ Various useful libraries for easier Android Development
 * [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java. 
 
 ### UI
-* [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) Base Recycler View Adapter Helper - Powerful and flexible RecyclerAdapter
+* [BRVAH](https://github.com/CymChad/BaseRecyclerViewAdapterHelper) Base Recycler View Adapter Helper - Powerful and flexible RecyclerAdapter.
+* [Material Values](https://github.com/AoDevBlue/MaterialValues) - An Android library for material design values.
+* [PhotoView](https://github.com/chrisbanes/PhotoView) - Implementation of ImageView for Android that supports zooming, by various touch gestures.
+
+### Util
+* [Phoenix](https://github.com/JakeWharton/ProcessPhoenix) - Process Phoenix facilitates restarting your application process.
+* [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
+* [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
+
+### Debug
+* [Stetho](https://github.com/facebook/stetho) - A debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 
 ### Debugging
 
 ## Cookbook
 Hands on guide for various things.
 
-#### Add adb to terminal
-`export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools`
+1.  Add adb to terminal 
+```export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools```
+2. [Google Maven Repository Reference](https://dl.google.com/dl/android/maven2/index.html)
+3. To find layout that is currently shown on the screen, use ` Tools | Layout Inspector`
 
 ## To-do List
 
 - [x] Properly export AS material theme
-- [ ] Design Pattern
-- [ ] Useful Kotlin Extensions Classes
+- [x] Update libraries
+- [] Libraries usage examples
