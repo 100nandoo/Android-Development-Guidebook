@@ -34,16 +34,9 @@ Various useful libraries for easier Android Development
 
 ### Debugging
 
-## Cookbook
-Hands on guide for various things.
-
-1.  Add adb to terminal 
-```export PATH=${PATH}:/home/{username}/Android/Sdk/platform-tools```
-2. [Google Maven Repository Reference](https://dl.google.com/dl/android/maven2/index.html)
-3. To find layout that is currently shown on the screen, use ` Tools | Layout Inspector`
-
 ## To-do List
 
 - [x] Properly export AS material theme
 - [x] Update libraries
 - [] Libraries usage examples
+- [] Migrate google docs guidebook to here
