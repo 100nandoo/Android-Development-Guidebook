@@ -29,6 +29,10 @@ Various useful libraries for easier Android Development
 * [ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
 * [Timber](https://github.com/JakeWharton/timber) - A logger with a small, extensible API which provides utility on top of Android's normal Log class.
 
+### Tutorial
+* [AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
+* [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+
 ### Debug
 * [Stetho](https://github.com/facebook/stetho) - A debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 
