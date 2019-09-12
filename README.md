@@ -32,6 +32,8 @@ Various useful libraries for easier Android Development
 ### Tutorial
 * [AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
 * [Spotlight](https://github.com/TakuSemba/Spotlight) - Android Library that lights items for tutorials or walk-throughs etc...
+* [TapTargetView](https://github.com/KeepSafe/TapTargetView) - An implementation of tap targets from the Material Design guidelines for feature discovery
+
 
 ### Debug
 * [Stetho](https://github.com/facebook/stetho) - A debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
