@@ -41,7 +41,12 @@ Various useful libraries for easier Android Development
 ### Network
 
 * [Retrofit](https://github.com/square/retrofit) - Type-safe HTTP client for Android and Java by Square, Inc.
-* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java. 
+* [Moshi](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+
+### Test
+
+* [Mockk](https://github.com/mockk/mockk) - mocking library for Kotlin
+
 
 ### Tutorial
 
