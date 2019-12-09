@@ -24,8 +24,8 @@ Go to preferences > plugins > and disable everything you don't need.
  
  ## Tweak your studio.vmoptions file
  tl;dr: in Android Studio head to “Help > Edit Custom VM Options…“ and change it to the below:
- 
- #-Xms256m
+```
+#-Xms256m
 #-Xmx2048m
 -XX:ReservedCodeCacheSize=240m
 -XX:+UseCompressedOops
@@ -61,3 +61,4 @@ Go to preferences > plugins > and disable everything you don't need.
 
 # Sets the size of the allocated class metadata space that will trigger a GC the first time it is exceeded, default max value is 350m
 -XX:MetaspaceSize=512m
+```
