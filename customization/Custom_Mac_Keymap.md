@@ -1,4 +1,4 @@
-# Mac Keymap
+# Custom Mac Keymap
 
 1. Change `Key Repeat` to fast
 2. Change `Delay Until Repeat` to short

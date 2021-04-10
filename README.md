@@ -13,6 +13,7 @@ Everything that you need to know to help you become better Android Developer.
 
 * [Faster Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Faster_Android_Studio.md)
 * [Beautiful Android Studio](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Beautiful_Android_Studio.md)
+* [Custom Mac Keymap](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Custom_Mac_Keymap.md)
 * [Ignore Dagger Generated Class](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/customization/Ignore_Dagger.md)
 
 ### Debugging
