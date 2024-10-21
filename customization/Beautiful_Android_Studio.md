@@ -6,7 +6,7 @@ Go to `Settings | plugins | Browse Repositories...` search chroMaterial and inst
 
 ### Colorful Color Scheme
 Using material color scheme.
-* Download [settings.zip](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/intellij/color-scheme/settings.zip)
+* Download [editor-colors.zip](https://github.com/100nandoo/Android-Development-Guidebook/blob/master/intellij/color-scheme/editor-colors.zip)
 * Go to `File | Manage IDE Settings | Import Settings...` select `settings.zip` that you just downloaded
 
 ### Change Android Studio UI Theme
